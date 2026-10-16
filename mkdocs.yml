@@ -25,6 +25,9 @@ nav:
 
   - Getting Started:
     - Getting Started: getting-started/index.md
+    - Learning about GitHub:
+      - GitHub Advanced Security: get-started/learning-about-github/about-github-advanced-security.md
+      - GHAS einrichten: get-started/learning-about-github/ghas-einrichten.md
     - Install: 
       - Before Continuing: getting-started/install/before-continuing.md
       - Install with Playbook: getting-started/install/install-playbook.md
